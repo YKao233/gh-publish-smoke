@@ -18,3 +18,8 @@
 ```powershell
 gh repo delete YKao233/gh-publish-smoke --yes
 ```
+
+## 更新测试
+
+这一行是第二次提交，用来确认 push 流程。
+
